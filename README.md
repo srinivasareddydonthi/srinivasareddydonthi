@@ -69,6 +69,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasareddydonthi&theme=tokyonight" height="160px"/>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MAKAGOPIRAJU&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### **📊 Top Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasareddydonthi&layout=compact&theme=tokyonight" height="160px"/>
